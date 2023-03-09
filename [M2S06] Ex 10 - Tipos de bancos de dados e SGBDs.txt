@@ -1,0 +1,2 @@
+Existem dois tipos principais de bancos de dados: relacional e não-relacional(NoSQL).
+Exemplos de SGBDs incluem MySQL, PostgreSQL, Oracle, MongoDB, entre outros.
