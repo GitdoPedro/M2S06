@@ -1,0 +1,4 @@
+Modelagem conceitual de dados é um processo de planejamento com objetivo de definir
+como e quais informações vão ser guardadas num banco de dados.
+Também é definido como as informações se relacionam entre si e quais são seus tipos.
+O objetivo é criar um mapa mentar dos dados, visando melhorar a organização e eficiencia.
